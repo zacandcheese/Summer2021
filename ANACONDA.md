@@ -1,8 +1,8 @@
 # Anaconda 
 > a distribution of the Python and R programming languages for scientific computing (data science, machine learning applications, large-scale data processing, predictive analytics, etc.), that aims to simplify package management and deployment.
 
-[Windows](##anaconda-for-windows)
-[Linux](##anaconda-for-linux)
+[Windows](#anaconda-for-windows)
+[Linux](#anaconda-for-linux)
 ## Anaconda for Windows 
 ---
 ### Installation
